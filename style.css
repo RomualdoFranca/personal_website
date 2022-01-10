@@ -36,7 +36,7 @@ h1 {
     z-index: -2;
  
 }
-.about {
+.about{
     width: 65%;
     background-color: black;
     border: 1px solid #000000;
@@ -65,7 +65,8 @@ h2 {
     width: 80%;
     float:right;
 }
-.container__projects {
+
+.container__projects, .container__work, .container__education{
     border: 1px solid white;
     width: 65%;
     background-color: black;
@@ -75,7 +76,7 @@ h2 {
     margin-right: auto;
     margin-top:30px;
     padding: 30px 100px;
-    /* position: relative; */
+    position: relative;
 }
 .projects {
     /* border: 1px solid white; */
